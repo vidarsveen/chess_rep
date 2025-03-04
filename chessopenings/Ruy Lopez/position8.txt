@@ -1,0 +1,1 @@
+This is the Ruy López Opening: Steinitz Defense. After 3. Bb5 d6, the move 4. d4 is superior because it immediately strikes at the center, opening lines for the pieces and increasing pressure on Black's position. In contrast, 4. d3 is more passive, allowing Black to maintain a solid structure without immediate challenge, resulting in a slight evaluation drop.

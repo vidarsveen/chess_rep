@@ -1,0 +1,1 @@
+This is the Philidor Defense. After 2. Nf3 d6, the move 3. Nc3 is superior because it supports the central pawn on e4 and prepares for potential d4 expansion, maintaining flexibility in the position. In contrast, 3. Bc4 is less effective here as it doesn't immediately contest the center or support the e4 pawn, leading to a slight evaluation drop.

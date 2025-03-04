@@ -1,0 +1,1 @@
+This is the Petrov Defense: Classical Attack. After 4...dxc6, the move 5. Nc3 is superior because it develops a piece and prepares to control the center with d4, maintaining flexibility and coordination. In contrast, 5. d4 prematurely opens the center, allowing Black to simplify and gain a significant advantage, resulting in a notable evaluation drop.

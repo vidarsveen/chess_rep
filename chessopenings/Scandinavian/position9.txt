@@ -1,0 +1,1 @@
+This is the Scandinavian Defense. After 6. h3, capturing with 7. Qxf3 is superior because it maintains better pawn structure and keeps the king's side more secure. By contrast, 7. gxf3 weakens the pawn structure and opens the g-file, which can be exploited by Black, leading to a significant evaluation drop.

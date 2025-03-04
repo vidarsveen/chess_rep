@@ -1,0 +1,1 @@
+This is the Scandinavian Defense. After 2. exd5 Qd6, the move 3. Bc4 is not optimal. Instead, a more active move like 3. Nc3 would help in developing pieces while controlling the center and preparing to recapture the pawn on d5. The move 3. Bc4 doesn't put enough pressure on Black's position and allows Black to develop comfortably, leading to a significant evaluation drop.

@@ -1,0 +1,1 @@
+This is the Ruy López: Morphy Defense. After 5...Nf6, the move 6. Nc3 is less optimal because it blocks the c-pawn, which can be crucial for pawn breaks or supporting the center later. Instead, other moves like 6. d3 or 6. O-O are more flexible, maintaining options for pawn structure and piece development, leading to a slight evaluation drop with 6. Nc3.

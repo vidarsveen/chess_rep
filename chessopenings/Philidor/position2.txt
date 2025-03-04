@@ -1,0 +1,1 @@
+This is the Philidor Defense. After 3. Nc3, this move is superior because it supports the center and prepares for potential pawn breaks or piece development, maintaining flexibility. In contrast, 3. Bc4 is less effective as it prematurely commits the bishop and allows Black to gain tempo with moves like ...Nf6, leading to a slight evaluation drop.

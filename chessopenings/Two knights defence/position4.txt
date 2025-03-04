@@ -1,0 +1,1 @@
+This is the Italian Game: Two Knights Defense. After 6. d3, the move is superior because it solidifies the center and prepares to develop the bishop to a more active square. In contrast, 6. Bxd5 is a significant mistake as it prematurely exchanges a well-placed bishop for a knight, leading to a substantial evaluation drop and weakening White's position.

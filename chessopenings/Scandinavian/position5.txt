@@ -1,0 +1,1 @@
+This is the Scandinavian Defense. After 4. Be2, this move develops a piece and prepares for kingside castling, maintaining pressure on the d5 pawn. In contrast, 4. Qe2 is less effective as it blocks the bishop's natural development square and does not contribute to piece activity, resulting in a significant evaluation drop.

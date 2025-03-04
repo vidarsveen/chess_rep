@@ -1,0 +1,1 @@
+This is the King's Gambit Declined: Classical Variation. After 3. d4, the move exf5 is superior because it immediately captures the pawn and opens lines for development, gaining a concrete material advantage. By contrast, 4. Nc3 is less effective as it allows Black to maintain the pawn on f5, leading to a significant evaluation drop.

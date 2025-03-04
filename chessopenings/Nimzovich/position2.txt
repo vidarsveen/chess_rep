@@ -1,0 +1,1 @@
+This is the Alekhine Defense. After 3. e5, the move e5 is superior because it immediately challenges Black's knight on f6, gaining space and initiative in the center. By contrast, 3. Nc3 is less assertive, allowing Black to maintain a strong knight presence and leading to a significant evaluation drop.

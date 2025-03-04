@@ -1,0 +1,1 @@
+This is the Scandinavian Defense: Icelandic Gambit. After 2...c5, the move Qf3 is superior because it immediately puts pressure on Black's d5 pawn and supports the potential development of the knight to c3. By contrast, 3. Nf3 is less aggressive, allowing Black to maintain central control and develop more comfortably, leading to a slight evaluation drop.

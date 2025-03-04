@@ -1,0 +1,1 @@
+This is the Italian Game. After 2...f6, the move 3. Bc4 is superior because it develops a piece, targets the vulnerable f7 square, and prepares for rapid kingside castling. In contrast, 3. d4 is less effective as it prematurely opens the center without sufficient development, leading to a significant evaluation drop.

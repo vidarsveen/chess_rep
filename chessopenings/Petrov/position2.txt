@@ -1,0 +1,1 @@
+This is the Petrov Defense: Classical Attack. After 5. Nc3, the move Nc3 is superior because it develops a piece while preparing to regain the pawn on e4, maintaining central control and piece activity. By contrast, 5. c4 is less effective as it doesn't develop a piece and allows Black to consolidate their central pawn structure, leading to a significant evaluation drop.

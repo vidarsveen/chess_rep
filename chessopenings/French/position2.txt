@@ -1,0 +1,1 @@
+This is the French Defense: Rubinstein Variation. After 5. Qd3, the move Qd3 is superior because it directly supports the knight on e4 and prepares for potential central control and development. In contrast, 5. Bd3 is less effective as it blocks the d-pawn, hindering White's development and central pawn breaks, leading to a slight evaluation drop.

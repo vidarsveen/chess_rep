@@ -1,0 +1,1 @@
+This is the Italian Game: Two Knights Defense. After 2...Bc5, the move 3. Nxe5 is superior because it directly captures the pawn and creates immediate tactical opportunities for Black to exploit. In contrast, 3. Bc4 is less aggressive, allowing Black to develop comfortably and potentially seize the initiative, resulting in a significant evaluation drop.

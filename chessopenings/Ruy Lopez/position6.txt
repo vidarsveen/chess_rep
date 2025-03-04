@@ -1,0 +1,1 @@
+This is the Ruy López: Berlin Defense. After 5. Bxc6, capturing the knight on c6 is superior because it doubles Black's pawns and weakens their pawn structure, creating long-term strategic imbalances. In contrast, 5. d3 is more passive, allowing Black to maintain a solid pawn structure and resulting in a significant evaluation drop.

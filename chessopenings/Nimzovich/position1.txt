@@ -1,0 +1,1 @@
+This is the Italian Game: Two Knights Defense. After 5. Nc3, the move is standard and supports central control while preparing for potential d4 advances. The alternative move in the notation is actually the same, suggesting no deviation in this position. Therefore, the evaluation loss might be a misinterpretation or an error in the notation provided.

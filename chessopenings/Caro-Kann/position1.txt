@@ -1,0 +1,1 @@
+This is the Caro-Kann Defense: Two Knights Attack. After 5. Be2 Qd7, the move 6. Nh3 is superior because it develops the knight to a more active square, preparing to support the center and potentially reposition to f4. In contrast, 6. h3 is more passive, merely pushing the knight away without developing a piece, leading to a slight evaluation drop.

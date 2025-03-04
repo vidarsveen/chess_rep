@@ -1,0 +1,1 @@
+This is the French Defense: Exchange Variation. After 7...Ne7, the move 8. Nc7+ is superior because it delivers a check, forcing Black to respond immediately, and potentially winning material by capturing the rook on a8. In contrast, 8. Nxe7 is a less effective move, as it simply exchanges pieces without gaining any advantage, resulting in a significant evaluation drop.

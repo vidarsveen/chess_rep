@@ -1,0 +1,1 @@
+This is the Italian Game: Giuoco Pianissimo. After 4. O-O, the move 5. d4 is superior because it immediately challenges the center, opening lines for the pieces and increasing central control. In contrast, 5. d3 is more passive, allowing Black to maintain a solid position and resulting in a slight evaluation drop.

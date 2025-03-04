@@ -1,0 +1,1 @@
+This is the Pirc Defense. After 3. Nc3, the move 4. Bg5 is superior because it immediately pins the knight on f6, creating pressure on Black's position and potentially disrupting their plans. In contrast, 4. Nf3 is less aggressive, allowing Black to develop comfortably and maintain a solid structure, which results in a slight evaluation drop.

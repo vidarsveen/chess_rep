@@ -1,0 +1,1 @@
+This is the Ruy López Opening: Morphy Defense. After 7. c3, the move Nxe5 is superior because it immediately captures the central pawn, gaining material and opening lines for further tactical opportunities. In contrast, 8. Bc2 is too passive, allowing Black to maintain strong central control and resulting in a significant evaluation drop.

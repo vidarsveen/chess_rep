@@ -1,0 +1,1 @@
+This is the Sicilian Defense: Open Variation. After 3. d4, the move d4 is superior because it immediately opens the center, allowing White to challenge Black's pawn structure and gain central control. In contrast, 3. Bc4 is less effective as it doesn't contest the center directly, allowing Black to maintain a solid position and resulting in a slight evaluation drop.

@@ -1,0 +1,1 @@
+This is the Ruy López: Modern Steinitz Defense. After 4. d3, the move 5. Ba4 is superior because it maintains pressure on the knight on c6 and keeps options open for future development. In contrast, 5. Be3 is less optimal as it prematurely commits the bishop, reducing flexibility and slightly weakening White's position, leading to a minor evaluation drop.

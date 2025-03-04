@@ -1,0 +1,1 @@
+This is the Petrov Defense: Damiano Variation. After 3. d4 exd4, the move Bc4 is superior because it develops a piece with tempo, targeting the vulnerable f7 square and putting pressure on Black's position. In contrast, 4. Nxd4 is less effective as it allows Black to maintain a solid pawn structure and equalize more easily, leading to a significant evaluation drop.

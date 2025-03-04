@@ -1,0 +1,1 @@
+This is the Caro-Kann Defense: Advance Variation. After 5. Be2, this move is superior because it supports the center and prepares for a safe kingside development. In contrast, 5. f4 is too aggressive early on, weakening the pawn structure and leaving the king's side vulnerable, which results in a significant evaluation drop.

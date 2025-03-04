@@ -1,0 +1,1 @@
+This is the Italian Game: Giuoco Pianissimo. After 5...Be6, the move Bxe6 is superior because it immediately exchanges a key piece, simplifying the position and potentially doubling Black's pawns. In contrast, 6. Bg5 is less effective as it allows Black to maintain a solid pawn structure and develop their pieces harmoniously, resulting in a slight evaluation drop.

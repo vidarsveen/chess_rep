@@ -1,66 +1,351 @@
 [
   {
-    "name": "Bird",
+    "name": "Alekhine's defence",
     "positions": [
       {
-        "mp3": "chessopenings\\Bird\\position1.mp3",
-        "svg": "chessopenings\\Bird\\position1.svg",
-        "text": "chessopenings\\Bird\\position1.txt"
+        "mp3": "chessopenings\\Alekhine's defence\\position1.mp3",
+        "svg": "chessopenings\\Alekhine's defence\\position1.svg",
+        "text": "chessopenings\\Alekhine's defence\\position1.txt"
       }
     ]
   },
   {
-    "name": "Polish",
+    "name": "Caro-Kann",
     "positions": [
       {
-        "mp3": "chessopenings\\Polish\\position1.mp3",
-        "svg": "chessopenings\\Polish\\position1.svg",
-        "text": "chessopenings\\Polish\\position1.txt"
+        "mp3": "chessopenings\\Caro-Kann\\position1.mp3",
+        "svg": "chessopenings\\Caro-Kann\\position1.svg",
+        "text": "chessopenings\\Caro-Kann\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Caro-Kann\\position2.mp3",
+        "svg": "chessopenings\\Caro-Kann\\position2.svg",
+        "text": "chessopenings\\Caro-Kann\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Caro-Kann\\position3.mp3",
+        "svg": "chessopenings\\Caro-Kann\\position3.svg",
+        "text": "chessopenings\\Caro-Kann\\position3.txt"
       }
     ]
   },
   {
-    "name": "Queen's Gambit Declined",
+    "name": "French",
     "positions": [
       {
-        "mp3": "chessopenings\\Queen's Gambit Declined\\position1.mp3",
-        "svg": "chessopenings\\Queen's Gambit Declined\\position1.svg",
-        "text": "chessopenings\\Queen's Gambit Declined\\position1.txt"
+        "mp3": "chessopenings\\French\\position1.mp3",
+        "svg": "chessopenings\\French\\position1.svg",
+        "text": "chessopenings\\French\\position1.txt"
       },
       {
-        "mp3": "chessopenings\\Queen's Gambit Declined\\position2.mp3",
-        "svg": "chessopenings\\Queen's Gambit Declined\\position2.svg",
-        "text": "chessopenings\\Queen's Gambit Declined\\position2.txt"
+        "mp3": "chessopenings\\French\\position2.mp3",
+        "svg": "chessopenings\\French\\position2.svg",
+        "text": "chessopenings\\French\\position2.txt"
       },
       {
-        "mp3": "chessopenings\\Queen's Gambit Declined\\position3.mp3",
-        "svg": "chessopenings\\Queen's Gambit Declined\\position3.svg",
-        "text": "chessopenings\\Queen's Gambit Declined\\position3.txt"
+        "mp3": "chessopenings\\French\\position3.mp3",
+        "svg": "chessopenings\\French\\position3.svg",
+        "text": "chessopenings\\French\\position3.txt"
       },
       {
-        "mp3": "chessopenings\\Queen's Gambit Declined\\position4.mp3",
-        "svg": "chessopenings\\Queen's Gambit Declined\\position4.svg",
-        "text": "chessopenings\\Queen's Gambit Declined\\position4.txt"
+        "mp3": "chessopenings\\French\\position4.mp3",
+        "svg": "chessopenings\\French\\position4.svg",
+        "text": "chessopenings\\French\\position4.txt"
       }
     ]
   },
   {
-    "name": "Queen's pawn game",
+    "name": "Giuoco Piano",
     "positions": [
       {
-        "mp3": "chessopenings\\Queen's pawn game\\position1.mp3",
-        "svg": "chessopenings\\Queen's pawn game\\position1.svg",
-        "text": "chessopenings\\Queen's pawn game\\position1.txt"
+        "mp3": "chessopenings\\Giuoco Piano\\position1.mp3",
+        "svg": "chessopenings\\Giuoco Piano\\position1.svg",
+        "text": "chessopenings\\Giuoco Piano\\position1.txt"
       },
       {
-        "mp3": "chessopenings\\Queen's pawn game\\position2.mp3",
-        "svg": "chessopenings\\Queen's pawn game\\position2.svg",
-        "text": "chessopenings\\Queen's pawn game\\position2.txt"
+        "mp3": "chessopenings\\Giuoco Piano\\position2.mp3",
+        "svg": "chessopenings\\Giuoco Piano\\position2.svg",
+        "text": "chessopenings\\Giuoco Piano\\position2.txt"
       },
       {
-        "mp3": "chessopenings\\Queen's pawn game\\position3.mp3",
-        "svg": "chessopenings\\Queen's pawn game\\position3.svg",
-        "text": "chessopenings\\Queen's pawn game\\position3.txt"
+        "mp3": "chessopenings\\Giuoco Piano\\position3.mp3",
+        "svg": "chessopenings\\Giuoco Piano\\position3.svg",
+        "text": "chessopenings\\Giuoco Piano\\position3.txt"
+      }
+    ]
+  },
+  {
+    "name": "King's knight",
+    "positions": [
+      {
+        "mp3": "chessopenings\\King's knight\\position1.mp3",
+        "svg": "chessopenings\\King's knight\\position1.svg",
+        "text": "chessopenings\\King's knight\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's knight\\position2.mp3",
+        "svg": "chessopenings\\King's knight\\position2.svg",
+        "text": "chessopenings\\King's knight\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's knight\\position3.mp3",
+        "svg": "chessopenings\\King's knight\\position3.svg",
+        "text": "chessopenings\\King's knight\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's knight\\position4.mp3",
+        "svg": "chessopenings\\King's knight\\position4.svg",
+        "text": "chessopenings\\King's knight\\position4.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's knight\\position5.mp3",
+        "svg": "chessopenings\\King's knight\\position5.svg",
+        "text": "chessopenings\\King's knight\\position5.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's knight\\position6.mp3",
+        "svg": "chessopenings\\King's knight\\position6.svg",
+        "text": "chessopenings\\King's knight\\position6.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's knight\\position7.mp3",
+        "svg": "chessopenings\\King's knight\\position7.svg",
+        "text": "chessopenings\\King's knight\\position7.txt"
+      }
+    ]
+  },
+  {
+    "name": "King's pawn game",
+    "positions": [
+      {
+        "mp3": "chessopenings\\King's pawn game\\position1.mp3",
+        "svg": "chessopenings\\King's pawn game\\position1.svg",
+        "text": "chessopenings\\King's pawn game\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's pawn game\\position2.mp3",
+        "svg": "chessopenings\\King's pawn game\\position2.svg",
+        "text": "chessopenings\\King's pawn game\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's pawn game\\position3.mp3",
+        "svg": "chessopenings\\King's pawn game\\position3.svg",
+        "text": "chessopenings\\King's pawn game\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's pawn game\\position4.mp3",
+        "svg": "chessopenings\\King's pawn game\\position4.svg",
+        "text": "chessopenings\\King's pawn game\\position4.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's pawn game\\position5.mp3",
+        "svg": "chessopenings\\King's pawn game\\position5.svg",
+        "text": "chessopenings\\King's pawn game\\position5.txt"
+      },
+      {
+        "mp3": "chessopenings\\King's pawn game\\position6.mp3",
+        "svg": "chessopenings\\King's pawn game\\position6.svg",
+        "text": "chessopenings\\King's pawn game\\position6.txt"
+      }
+    ]
+  },
+  {
+    "name": "Nimzovich",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Nimzovich\\position1.mp3",
+        "svg": "chessopenings\\Nimzovich\\position1.svg",
+        "text": "chessopenings\\Nimzovich\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Nimzovich\\position2.mp3",
+        "svg": "chessopenings\\Nimzovich\\position2.svg",
+        "text": "chessopenings\\Nimzovich\\position2.txt"
+      }
+    ]
+  },
+  {
+    "name": "Owen defence",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Owen defence\\position1.mp3",
+        "svg": "chessopenings\\Owen defence\\position1.svg",
+        "text": "chessopenings\\Owen defence\\position1.txt"
+      }
+    ]
+  },
+  {
+    "name": "Petrov",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Petrov\\position1.mp3",
+        "svg": "chessopenings\\Petrov\\position1.svg",
+        "text": "chessopenings\\Petrov\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Petrov\\position2.mp3",
+        "svg": "chessopenings\\Petrov\\position2.svg",
+        "text": "chessopenings\\Petrov\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Petrov\\position3.mp3",
+        "svg": "chessopenings\\Petrov\\position3.svg",
+        "text": "chessopenings\\Petrov\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\Petrov\\position4.mp3",
+        "svg": "chessopenings\\Petrov\\position4.svg",
+        "text": "chessopenings\\Petrov\\position4.txt"
+      },
+      {
+        "mp3": "chessopenings\\Petrov\\position5.mp3",
+        "svg": "chessopenings\\Petrov\\position5.svg",
+        "text": "chessopenings\\Petrov\\position5.txt"
+      },
+      {
+        "mp3": "chessopenings\\Petrov\\position6.mp3",
+        "svg": "chessopenings\\Petrov\\position6.svg",
+        "text": "chessopenings\\Petrov\\position6.txt"
+      }
+    ]
+  },
+  {
+    "name": "Philidor",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Philidor\\position1.mp3",
+        "svg": "chessopenings\\Philidor\\position1.svg",
+        "text": "chessopenings\\Philidor\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Philidor\\position2.mp3",
+        "svg": "chessopenings\\Philidor\\position2.svg",
+        "text": "chessopenings\\Philidor\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Philidor\\position3.mp3",
+        "svg": "chessopenings\\Philidor\\position3.svg",
+        "text": "chessopenings\\Philidor\\position3.txt"
+      }
+    ]
+  },
+  {
+    "name": "Pirc",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Pirc\\position1.mp3",
+        "svg": "chessopenings\\Pirc\\position1.svg",
+        "text": "chessopenings\\Pirc\\position1.txt"
+      }
+    ]
+  },
+  {
+    "name": "Ruy Lopez",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position1.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position1.svg",
+        "text": "chessopenings\\Ruy Lopez\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position2.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position2.svg",
+        "text": "chessopenings\\Ruy Lopez\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position3.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position3.svg",
+        "text": "chessopenings\\Ruy Lopez\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position4.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position4.svg",
+        "text": "chessopenings\\Ruy Lopez\\position4.txt"
+      },
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position5.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position5.svg",
+        "text": "chessopenings\\Ruy Lopez\\position5.txt"
+      },
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position6.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position6.svg",
+        "text": "chessopenings\\Ruy Lopez\\position6.txt"
+      },
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position7.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position7.svg",
+        "text": "chessopenings\\Ruy Lopez\\position7.txt"
+      },
+      {
+        "mp3": "chessopenings\\Ruy Lopez\\position8.mp3",
+        "svg": "chessopenings\\Ruy Lopez\\position8.svg",
+        "text": "chessopenings\\Ruy Lopez\\position8.txt"
+      }
+    ]
+  },
+  {
+    "name": "Scandinavian",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Scandinavian\\position1.mp3",
+        "svg": "chessopenings\\Scandinavian\\position1.svg",
+        "text": "chessopenings\\Scandinavian\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position2.mp3",
+        "svg": "chessopenings\\Scandinavian\\position2.svg",
+        "text": "chessopenings\\Scandinavian\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position3.mp3",
+        "svg": "chessopenings\\Scandinavian\\position3.svg",
+        "text": "chessopenings\\Scandinavian\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position4.mp3",
+        "svg": "chessopenings\\Scandinavian\\position4.svg",
+        "text": "chessopenings\\Scandinavian\\position4.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position5.mp3",
+        "svg": "chessopenings\\Scandinavian\\position5.svg",
+        "text": "chessopenings\\Scandinavian\\position5.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position6.mp3",
+        "svg": "chessopenings\\Scandinavian\\position6.svg",
+        "text": "chessopenings\\Scandinavian\\position6.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position7.mp3",
+        "svg": "chessopenings\\Scandinavian\\position7.svg",
+        "text": "chessopenings\\Scandinavian\\position7.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position8.mp3",
+        "svg": "chessopenings\\Scandinavian\\position8.svg",
+        "text": "chessopenings\\Scandinavian\\position8.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position9.mp3",
+        "svg": "chessopenings\\Scandinavian\\position9.svg",
+        "text": "chessopenings\\Scandinavian\\position9.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position10.mp3",
+        "svg": "chessopenings\\Scandinavian\\position10.svg",
+        "text": "chessopenings\\Scandinavian\\position10.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position11.mp3",
+        "svg": "chessopenings\\Scandinavian\\position11.svg",
+        "text": "chessopenings\\Scandinavian\\position11.txt"
+      },
+      {
+        "mp3": "chessopenings\\Scandinavian\\position12.mp3",
+        "svg": "chessopenings\\Scandinavian\\position12.svg",
+        "text": "chessopenings\\Scandinavian\\position12.txt"
       }
     ]
   },
@@ -71,91 +356,46 @@
         "mp3": "chessopenings\\Sicilian\\position1.mp3",
         "svg": "chessopenings\\Sicilian\\position1.svg",
         "text": "chessopenings\\Sicilian\\position1.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position2.mp3",
-        "svg": "chessopenings\\Sicilian\\position2.svg",
-        "text": "chessopenings\\Sicilian\\position2.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position3.mp3",
-        "svg": "chessopenings\\Sicilian\\position3.svg",
-        "text": "chessopenings\\Sicilian\\position3.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position4.mp3",
-        "svg": "chessopenings\\Sicilian\\position4.svg",
-        "text": "chessopenings\\Sicilian\\position4.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position5.mp3",
-        "svg": "chessopenings\\Sicilian\\position5.svg",
-        "text": "chessopenings\\Sicilian\\position5.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position6.mp3",
-        "svg": "chessopenings\\Sicilian\\position6.svg",
-        "text": "chessopenings\\Sicilian\\position6.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position7.mp3",
-        "svg": "chessopenings\\Sicilian\\position7.svg",
-        "text": "chessopenings\\Sicilian\\position7.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position8.mp3",
-        "svg": "chessopenings\\Sicilian\\position8.svg",
-        "text": "chessopenings\\Sicilian\\position8.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position9.mp3",
-        "svg": "chessopenings\\Sicilian\\position9.svg",
-        "text": "chessopenings\\Sicilian\\position9.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position10.mp3",
-        "svg": "chessopenings\\Sicilian\\position10.svg",
-        "text": "chessopenings\\Sicilian\\position10.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position11.mp3",
-        "svg": "chessopenings\\Sicilian\\position11.svg",
-        "text": "chessopenings\\Sicilian\\position11.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position12.mp3",
-        "svg": "chessopenings\\Sicilian\\position12.svg",
-        "text": "chessopenings\\Sicilian\\position12.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position13.mp3",
-        "svg": "chessopenings\\Sicilian\\position13.svg",
-        "text": "chessopenings\\Sicilian\\position13.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position14.mp3",
-        "svg": "chessopenings\\Sicilian\\position14.svg",
-        "text": "chessopenings\\Sicilian\\position14.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position15.mp3",
-        "svg": "chessopenings\\Sicilian\\position15.svg",
-        "text": "chessopenings\\Sicilian\\position15.txt"
-      },
-      {
-        "mp3": "chessopenings\\Sicilian\\position16.mp3",
-        "svg": "chessopenings\\Sicilian\\position16.svg",
-        "text": "chessopenings\\Sicilian\\position16.txt"
       }
     ]
   },
   {
-    "name": "Zukertort",
+    "name": "Two knights defence",
     "positions": [
       {
-        "mp3": "chessopenings\\Zukertort\\position1.mp3",
-        "svg": "chessopenings\\Zukertort\\position1.svg",
-        "text": "chessopenings\\Zukertort\\position1.txt"
+        "mp3": "chessopenings\\Two knights defence\\position1.mp3",
+        "svg": "chessopenings\\Two knights defence\\position1.svg",
+        "text": "chessopenings\\Two knights defence\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Two knights defence\\position2.mp3",
+        "svg": "chessopenings\\Two knights defence\\position2.svg",
+        "text": "chessopenings\\Two knights defence\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Two knights defence\\position3.mp3",
+        "svg": "chessopenings\\Two knights defence\\position3.svg",
+        "text": "chessopenings\\Two knights defence\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\Two knights defence\\position4.mp3",
+        "svg": "chessopenings\\Two knights defence\\position4.svg",
+        "text": "chessopenings\\Two knights defence\\position4.txt"
+      },
+      {
+        "mp3": "chessopenings\\Two knights defence\\position5.mp3",
+        "svg": "chessopenings\\Two knights defence\\position5.svg",
+        "text": "chessopenings\\Two knights defence\\position5.txt"
+      },
+      {
+        "mp3": "chessopenings\\Two knights defence\\position6.mp3",
+        "svg": "chessopenings\\Two knights defence\\position6.svg",
+        "text": "chessopenings\\Two knights defence\\position6.txt"
+      },
+      {
+        "mp3": "chessopenings\\Two knights defence\\position7.mp3",
+        "svg": "chessopenings\\Two knights defence\\position7.svg",
+        "text": "chessopenings\\Two knights defence\\position7.txt"
       }
     ]
   }

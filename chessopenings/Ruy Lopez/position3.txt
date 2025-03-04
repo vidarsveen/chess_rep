@@ -1,0 +1,1 @@
+This is the Ruy López Opening: Exchange Variation. After 4...d6, the move Bxc6+ is superior because it doubles Black's pawns and weakens their pawn structure, providing White with long-term strategic advantages. In contrast, 5. Nc3 develops a piece but misses the opportunity to disrupt Black's pawn structure, leading to a more passive position and a slight evaluation drop.

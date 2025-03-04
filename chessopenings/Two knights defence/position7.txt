@@ -1,0 +1,1 @@
+This is the Italian Game: Knight Attack. After 3. Bc4 Nf6, the move 4. Ng5 is superior because it immediately targets the f7 pawn, creating pressure and potential tactical opportunities for White. In contrast, 4. Nc3 is more conservative, allowing Black to develop comfortably and missing the chance to challenge Black's position early, resulting in a slight evaluation drop.

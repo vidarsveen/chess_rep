@@ -1,0 +1,1 @@
+This is the Italian Game: Two Knights Defense. After 4...b5, the move 5. Bxf7+ is superior because it immediately disrupts Black's king safety and opens up tactical opportunities for White. In contrast, 5. Nxf7 is less effective as it doesn't create the same level of immediate pressure or threats, resulting in a significant evaluation drop.

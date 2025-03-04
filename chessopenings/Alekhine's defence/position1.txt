@@ -1,0 +1,1 @@
+This is the Alekhine's Defense. After 1...Nf6, the move e5 is superior because it immediately challenges Black's knight, forcing it to move again and gaining tempo for White. In contrast, 2. Nc3 is less effective as it allows Black to continue developing without immediate pressure, leading to a slight evaluation drop.

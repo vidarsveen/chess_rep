@@ -1,0 +1,1 @@
+This is the Italian Game: Giuoco Piano. After 3...Bc5, the move 4. c3 is superior because it supports the central advance d4, preparing to challenge Black's center and develop White's pieces harmoniously. In contrast, 4. Ng5 prematurely attacks f7 without sufficient support, leading to a significant evaluation drop as Black can easily defend and gain a substantial advantage.

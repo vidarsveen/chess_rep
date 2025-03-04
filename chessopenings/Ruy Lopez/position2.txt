@@ -1,0 +1,1 @@
+This is the Ruy López: Berlin Defense. After 6...Nxe5, the move 7. d4 is superior because it immediately challenges Black's knight on e5 and opens lines for White's pieces, enhancing central control. In contrast, 7. Rxe5+ prematurely exchanges rooks, allowing Black to consolidate easily and leading to a significant evaluation drop.
