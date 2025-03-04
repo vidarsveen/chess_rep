@@ -1,1 +1,0 @@
-This is the Queen's Gambit Declined: Chigorin Defense. After 4. Nc3, the move Be7 is superior because it prepares for kingside castling and maintains flexibility in pawn structure. In contrast, 4...c6 is more passive, delaying development and allowing White to build up pressure, leading to a slight evaluation drop.

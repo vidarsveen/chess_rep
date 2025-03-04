@@ -1,1 +1,0 @@
-This is the Queen's Gambit Declined: Three Knights Variation. After 10. O-O, the move c5 is superior because it actively challenges White's central pawn structure and opens lines for Black's pieces, increasing pressure on White's position. In contrast, 10...b6 is more passive, focusing on pawn structure rather than piece activity, which leads to a slight evaluation drop.

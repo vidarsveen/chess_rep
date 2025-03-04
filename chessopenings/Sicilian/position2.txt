@@ -1,1 +1,0 @@
-This is the Sicilian Defense: Closed Variation. After 6. a3, the move a6 is superior because it prepares for a potential b5 pawn push, gaining space on the queenside and preventing White's pieces from easily penetrating. In contrast, 6...Nf6 is less effective at this stage, as it doesn't address the immediate strategic goals on the queenside, leading to a slight evaluation drop.

@@ -1,1 +1,0 @@
-This is the Queen's Pawn Opening: Colle System. After 4. Nd2, the move a6 is superior because it prepares for b5, potentially expanding on the queenside and supporting future pawn breaks. In contrast, 4...Bb4 is less effective as it prematurely commits the bishop, allowing White to easily counter with c3, leading to a significant evaluation drop.

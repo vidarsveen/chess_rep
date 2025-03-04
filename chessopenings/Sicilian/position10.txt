@@ -1,1 +1,0 @@
-This is the Sicilian Defense: Closed Variation. After 5. Nf3, the move Nf6 is superior because it develops the knight to a natural square, supporting the center and preparing for kingside castling. In contrast, 5...Na5 prematurely moves the knight to the edge of the board, reducing its influence and coordination, leading to a slight evaluation drop.

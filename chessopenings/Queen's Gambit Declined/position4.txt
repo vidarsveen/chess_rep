@@ -1,1 +1,0 @@
-This is the Queen's Gambit Declined: Orthodox Defense. After 9. Bxc4, the move Nc6 is superior because it develops a piece to a natural square, supporting central control and facilitating future development. In contrast, 9...Qb6 prematurely moves the queen, potentially exposing it to attacks and losing tempo, leading to a slight evaluation drop.

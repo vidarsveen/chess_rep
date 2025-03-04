@@ -1,1 +1,0 @@
-This is the Sicilian Defense: Bowdler Attack. After 4. c3, the move d5 is superior because it immediately challenges White's center and opens lines for Black's pieces, increasing activity. In contrast, 4...a6 is more passive, allowing White to maintain central control and develop freely, which results in a slight evaluation drop.

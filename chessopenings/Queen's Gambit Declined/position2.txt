@@ -1,1 +1,0 @@
-This is the Queen's Gambit Declined: Exchange Variation. After 10. Nf3, the move a6 is better because it prepares b5, gaining space on the queenside and supporting a future c5 pawn break. In contrast, 10...c5 allows White to open the center prematurely, giving White dynamic play and resulting in a significant evaluation drop.

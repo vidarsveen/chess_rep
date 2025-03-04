@@ -1,1 +1,0 @@
-This is the Sicilian Defense: Open Variation. After 4. Nxd4, the move Nf6 is superior because it immediately attacks the e4 pawn, putting pressure on White's center and developing a piece towards the center. In contrast, 4...g6 is slower in development, allowing White to maintain central control and leading to a slight evaluation drop.
