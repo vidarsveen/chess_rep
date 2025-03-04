@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#app {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#openingsList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.openingItem {
+  padding: 10px;
+  background-color: #eee;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
+
+.openingItem:hover {
+  background-color: #ccc;
+}
+
+#positionView {
+  margin-top: 20px;
+}
+
+#positionImage {
+  display: block;
+  margin: 10px 0;
+  width: 400px; /* adjust as needed */
+  height: auto;
+}
+
+.navButtons {
+  margin-top: 10px;
+}

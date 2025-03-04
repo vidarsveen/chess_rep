@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Bird",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Bird\\position1.mp3",
+        "svg": "chessopenings\\Bird\\position1.svg",
+        "text": "chessopenings\\Bird\\position1.txt"
+      }
+    ]
+  },
+  {
+    "name": "Polish",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Polish\\position1.mp3",
+        "svg": "chessopenings\\Polish\\position1.svg",
+        "text": "chessopenings\\Polish\\position1.txt"
+      }
+    ]
+  },
+  {
+    "name": "Queen's Gambit Declined",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Queen's Gambit Declined\\position1.mp3",
+        "svg": "chessopenings\\Queen's Gambit Declined\\position1.svg",
+        "text": "chessopenings\\Queen's Gambit Declined\\position1.txt"
+      }
+    ]
+  },
+  {
+    "name": "Sicilian",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Sicilian\\position1.mp3",
+        "svg": "chessopenings\\Sicilian\\position1.svg",
+        "text": "chessopenings\\Sicilian\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position2.mp3",
+        "svg": "chessopenings\\Sicilian\\position2.svg",
+        "text": "chessopenings\\Sicilian\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position3.mp3",
+        "svg": "chessopenings\\Sicilian\\position3.svg",
+        "text": "chessopenings\\Sicilian\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position4.mp3",
+        "svg": "chessopenings\\Sicilian\\position4.svg",
+        "text": "chessopenings\\Sicilian\\position4.txt"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+This is the Bird's Opening. After 2. d4, the move Bf5 is superior because it immediately develops the bishop to an active square, supporting the center and preparing to contest White's setup. In contrast, 2...Nc6 is less effective as it doesn't directly challenge White's center or develop the pieces harmoniously, leading to a noticeable evaluation drop.

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Chess Openings</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <h1>Chess Openings</h1>
+
+    <!-- List of openings will be loaded here -->
+    <div id="openingsList"></div>
+
+    <!-- Position view (hidden by default) -->
+    <div id="positionView" style="display: none;">
+      <button id="backToOpenings">Back</button>
+      <h2 id="openingName"></h2>
+      <img id="positionImage" alt="Chess Position" />
+      <p id="positionText"></p>
+      <audio id="positionAudio" controls></audio>
+
+      <div class="navButtons">
+        <button id="prevBtn">Previous</button>
+        <span id="positionCounter"></span>
+        <button id="nextBtn">Next</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
