@@ -26,6 +26,41 @@
         "mp3": "chessopenings\\Queen's Gambit Declined\\position1.mp3",
         "svg": "chessopenings\\Queen's Gambit Declined\\position1.svg",
         "text": "chessopenings\\Queen's Gambit Declined\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Queen's Gambit Declined\\position2.mp3",
+        "svg": "chessopenings\\Queen's Gambit Declined\\position2.svg",
+        "text": "chessopenings\\Queen's Gambit Declined\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Queen's Gambit Declined\\position3.mp3",
+        "svg": "chessopenings\\Queen's Gambit Declined\\position3.svg",
+        "text": "chessopenings\\Queen's Gambit Declined\\position3.txt"
+      },
+      {
+        "mp3": "chessopenings\\Queen's Gambit Declined\\position4.mp3",
+        "svg": "chessopenings\\Queen's Gambit Declined\\position4.svg",
+        "text": "chessopenings\\Queen's Gambit Declined\\position4.txt"
+      }
+    ]
+  },
+  {
+    "name": "Queen's pawn game",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Queen's pawn game\\position1.mp3",
+        "svg": "chessopenings\\Queen's pawn game\\position1.svg",
+        "text": "chessopenings\\Queen's pawn game\\position1.txt"
+      },
+      {
+        "mp3": "chessopenings\\Queen's pawn game\\position2.mp3",
+        "svg": "chessopenings\\Queen's pawn game\\position2.svg",
+        "text": "chessopenings\\Queen's pawn game\\position2.txt"
+      },
+      {
+        "mp3": "chessopenings\\Queen's pawn game\\position3.mp3",
+        "svg": "chessopenings\\Queen's pawn game\\position3.svg",
+        "text": "chessopenings\\Queen's pawn game\\position3.txt"
       }
     ]
   },
@@ -51,6 +86,76 @@
         "mp3": "chessopenings\\Sicilian\\position4.mp3",
         "svg": "chessopenings\\Sicilian\\position4.svg",
         "text": "chessopenings\\Sicilian\\position4.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position5.mp3",
+        "svg": "chessopenings\\Sicilian\\position5.svg",
+        "text": "chessopenings\\Sicilian\\position5.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position6.mp3",
+        "svg": "chessopenings\\Sicilian\\position6.svg",
+        "text": "chessopenings\\Sicilian\\position6.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position7.mp3",
+        "svg": "chessopenings\\Sicilian\\position7.svg",
+        "text": "chessopenings\\Sicilian\\position7.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position8.mp3",
+        "svg": "chessopenings\\Sicilian\\position8.svg",
+        "text": "chessopenings\\Sicilian\\position8.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position9.mp3",
+        "svg": "chessopenings\\Sicilian\\position9.svg",
+        "text": "chessopenings\\Sicilian\\position9.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position10.mp3",
+        "svg": "chessopenings\\Sicilian\\position10.svg",
+        "text": "chessopenings\\Sicilian\\position10.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position11.mp3",
+        "svg": "chessopenings\\Sicilian\\position11.svg",
+        "text": "chessopenings\\Sicilian\\position11.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position12.mp3",
+        "svg": "chessopenings\\Sicilian\\position12.svg",
+        "text": "chessopenings\\Sicilian\\position12.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position13.mp3",
+        "svg": "chessopenings\\Sicilian\\position13.svg",
+        "text": "chessopenings\\Sicilian\\position13.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position14.mp3",
+        "svg": "chessopenings\\Sicilian\\position14.svg",
+        "text": "chessopenings\\Sicilian\\position14.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position15.mp3",
+        "svg": "chessopenings\\Sicilian\\position15.svg",
+        "text": "chessopenings\\Sicilian\\position15.txt"
+      },
+      {
+        "mp3": "chessopenings\\Sicilian\\position16.mp3",
+        "svg": "chessopenings\\Sicilian\\position16.svg",
+        "text": "chessopenings\\Sicilian\\position16.txt"
+      }
+    ]
+  },
+  {
+    "name": "Zukertort",
+    "positions": [
+      {
+        "mp3": "chessopenings\\Zukertort\\position1.mp3",
+        "svg": "chessopenings\\Zukertort\\position1.svg",
+        "text": "chessopenings\\Zukertort\\position1.txt"
       }
     ]
   }

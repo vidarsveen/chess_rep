@@ -1,0 +1,1 @@
+This is the King's Indian Attack against the Sicilian Defense. After 3. Bc4, the move 3...Bg7 is superior because it develops a piece to a more active square, supporting the central control and preparing for kingside fianchetto. In contrast, 3...Nc6 is less effective at this stage as it doesn't exert immediate pressure on White's setup, leading to a slight evaluation drop.

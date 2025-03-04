@@ -1,0 +1,1 @@
+This is the Sicilian Defense: Grand Prix Attack. After 5. Nxd4, the move e5 is superior because it immediately challenges White's knight on d4 and prepares to establish a strong pawn center. By contrast, 5...Nxd4 prematurely exchanges knights, reducing Black's central control and leading to a significant evaluation drop.

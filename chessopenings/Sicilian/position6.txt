@@ -1,0 +1,1 @@
+This is the Sicilian Defense: Open Variation. After 4. Nxd4, the move g6 is a standard choice, aiming to fianchetto the bishop and control the center. However, the alternative move 4...g6 in this context is not an alternative but a repetition of the same move. Therefore, no evaluation change occurs based on this move itself, as it is already the main line.
